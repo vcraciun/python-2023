@@ -1,0 +1,22 @@
+0. scrieti un algoritm care calculeaza suma primelor n numere naturale
+1. generati codurile ascii in format hex string pentru un range de litere successive
+   range-ul este dat de primul caracter, si numarul de elemente care incepe cu primul caracter
+   ex: pentru {'0'....'9'} se va afisa '30 31 32 33 34 35 36 37 38 39'
+   ex: pentru {'a'....'z'} se va afisa '61 62 63 64 65 66 67 68 69 6a 6b 6c 6d 6e 6f 70 71 72 73 74 75 76 77 78 79 7a'
+   ex: pentru {'A'....'Z'} se va afisa '41 42 43 44 45 46 47 48 49 4a 4b 4c 4d 4e 4f 50 51 52 53 54 55 56 57 58 59 5a'
+2. generati secventa de 8 biti pentru a reprezenta o succesiune de numere, si afisati si numarul de caractere 0 si 1
+   ex: pentru {0,1,2,3,4} se va afisa '00000000 00000001 00000010 00000011 00000100', 35, 5
+3. scrieti un algoritm care calculeaza rezultatul unei impartiri cu virgula, folosind doar numere intregi
+   rezultatul se va afisa cu 100 de zecimale
+4. scrieti un program care calculeaza solutiile unui sistem de ecuatii de grad 1 cu cel mult 4 necunoscute
+5. scrieti un algoritm care implementeaza radacina de ordin n dintr-un numar dat, cu 50 de zecimale, utilizand doar calcule cu numere intregi, dupa algorimtul prezentat aici: https://en.wikipedia.org/wiki/Nth_root
+6. Generati permutrea n pentru cuvinte cu p litre folosind un alfabet dat, n < len(alfabet)^p
+7. Generati matrici de biti 0/1 compacte 8x16, pornind de la reprezentarea hex a unor numere
+   matricile vor fi afisate unele sub altele
+   0x00, 0x00, 0xFC, 0x66, 0x66, 0x66, 0x7C, 0x60, 0x60, 0x60, 0x60, 0xF0, 0x00, 0x00, 0x00, 0x00
+   0x00, 0x00, 0x00, 0x00, 0x00, 0xC6, 0xC6, 0xC6, 0xC6, 0xC6, 0xC6, 0x7E, 0x06, 0x0C, 0xF8, 0x00
+   0x00, 0x00, 0x10, 0x30, 0x30, 0xFC, 0x30, 0x30, 0x30, 0x30, 0x36, 0x1C, 0x00, 0x00, 0x00, 0x00
+   0x00, 0x00, 0xE0, 0x60, 0x60, 0x6C, 0x76, 0x66, 0x66, 0x66, 0x66, 0xE6, 0x00, 0x00, 0x00, 0x00
+   0x00, 0x00, 0x00, 0x00, 0x00, 0x7C, 0xC6, 0xC6, 0xC6, 0xC6, 0xC6, 0x7C, 0x00, 0x00, 0x00, 0x00
+   0x00, 0x00, 0x00, 0x00, 0x00, 0xDC, 0x66, 0x66, 0x66, 0x66, 0x66, 0x66, 0x00, 0x00, 0x00, 0x00
+8. scrieti un algoritm care calculeaza aria aproximativa a unei suprafete determinata de o secventa de valori y si axa OX
