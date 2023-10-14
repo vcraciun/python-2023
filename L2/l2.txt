@@ -20,3 +20,12 @@
    0x00, 0x00, 0x00, 0x00, 0x00, 0x7C, 0xC6, 0xC6, 0xC6, 0xC6, 0xC6, 0x7C, 0x00, 0x00, 0x00, 0x00
    0x00, 0x00, 0x00, 0x00, 0x00, 0xDC, 0x66, 0x66, 0x66, 0x66, 0x66, 0x66, 0x00, 0x00, 0x00, 0x00
 8. scrieti un algoritm care calculeaza aria aproximativa a unei suprafete determinata de o secventa de valori y si axa OX
+   Suprafata pentru care calculam aria este determinata de:
+   - stanga: axa OY (primul punct y are x=0, iar apoi x-ul creste din 1 in 1)
+   - dreapta: presupunem ca prin ultimul punct Y trece o axa verticala care trunchiaza axa OX la valoarea X a indexului acelui Y
+   - jos: axa OX
+   - sus: punctele descrise de secventa de valori Y
+   - fisierele g1.png si g2.png sunt 2 astfel de exemple
+
+
+   
