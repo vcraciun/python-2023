@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head">     
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K7P3LKS');</script>
+<!-- End Google Tag Manager -->
+			    <script type="text/javascript">
+			      var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', '[GTM-K7P3LKS]']);
+			      _gaq.push(['_trackPageview']);
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+			    </script>
+        
+		  
+<!--**********************************************************************************-->
+<!-- DotNetNuke - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2012                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<title>
+	Submission of papers EHB 2023
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="Bioengineering, Submission of papers, ehb 2023" /><meta id="MetaKeywords" name="KEYWORDS" content="EHB Conference, e-health, monitoring, IEEE, telemedicine, biotechnology, ehb 2023,DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2023 by SRBM" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="EHB 2023 Conference" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/DesktopModules/DNNStuff - Aggregator/module.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/DarkKnight/skin.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/admin/ControlPanel/module.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/DarkKnight/DNNMega/dnnmega.css?cdv=35" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/_default/WebControlSkin/Default/ComboBox.Default.css?cdv=35" type="text/css" rel="stylesheet"/><script src="/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=35" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=35" type="text/javascript"></script><link id="ADesktopModules_DNNStuff___Aggregator_Skins_jQueryUI_Tabs_styles_css" rel="stylesheet" type="text/css" href="/DesktopModules/DNNStuff - Aggregator/Skins/jQueryUI/Tabs/styles.css"></link><!--[if LT IE 8]><link id="IE7Minus" rel="stylesheet" type="text/css" href="/Portals/_default/Skins/DarkKnight/ie7skin.css" /><![endif]--><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X4XF2HDYW4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X4XF2HDYW4');
+</script><script type="text/javascript" src="/DesktopModules/DNNStuff - Aggregator/resources/jquery/jquery.easing.1.3.js"></script>
+</head>
+<body id="Body">
+    
+    <form method="post" action="/Submission.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=70lYoVlqrMTKaoUSvce2jpj61wFp3bZzCBpZi69Evicz9dFq9Txn1RGHnDfNmBsGKt7-nJ2CAMP2ykcX0&amp;t=637109924440000000" type="text/javascript"></script>
+
+
+<script src="/DesktopModules/DNNStuff - Aggregator/Resources/Support/dnnstuff-min.js" type="text/javascript"></script><!-- requires jquery ui -->
+
+<input id="Agg723_SelectedElementId" name="Agg723_SelectedElementId" type="hidden" value="Agg723_Tab1" />
+
+<link rel="stylesheet" href="/DesktopModules/DNNStuff - Aggregator/Skins/jQueryUI/_themes/redmond/ui.all.css" type="text/css" media="all" />
+
+<script type="text/javascript">
+
+	jQuery(document).ready(function(){
+		var $tabs = jQuery('#Agg723_Tab').tabs({ select: function(event,ui) {Agg723_UpdateSelectedTab(ui.index+1);}});
+						Agg723_SelectTab(1,'');
+	});
+
+	function Agg723_Initialize()
+	{
+	// needs to be here for Aggregator to function but doesn't need to do anything
+	}
+
+	function Agg723_SelectTab(tabNumber,source)
+	// SelectTab - select a specific tab#, source=tabmodule selecting
+	{
+		jQuery('#Agg723_Tab').tabs('select',tabNumber-1);
+
+		Agg723_UpdateSelectedTab(tabNumber);
+		
+	}
+	function Agg723_UpdateSelectedTab(tabNumber)
+	// UpdateSelectedTab - update hidden value and cookie to remember selection across pages, postbacks
+	{
+		// set hidden input value to the new tab
+        document.getElementById('Agg723_SelectedElementId').value=tabNumber;
+        subcookiejar.bake('DNNSTUFF_Aggregator',{723:tabNumber.toString()});
+	}
+	function Agg723_SelectNextTab()
+	// SelectNextTab - select the next tab
+	{
+	  var num_tabs = jQuery('#Agg723_Tab').tabs("length"); 
+	  var current = jQuery('#Agg723_Tab').tabs('option','selected'); 
+	  var next = ((current + 1)>num_tabs-1) ? 0 : current + 1; 
+	  jQuery('#Agg723_Tab').tabs('select',next); 
+	}   
+	   
+	function Agg723_SelectPrevTab()
+	// SelectPrevTab - select the previous tab
+	{
+	  var num_tabs = jQuery('#Agg723_Tab').tabs("length"); 
+	  var current = jQuery('#Agg723_Tab').tabs('option','selected'); 
+	  var prev = ((current - 1)<0) ? num_tabs-1 : current - 1; 
+	  jQuery('#Agg723_Tab').tabs('select',prev); 
+	}
+
+
+</script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a9ead301a-2c07-4fc5-be19-f8423a34e117%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="titESCeTyyTRkxoQ2FI3R0Hc3qzj3tWU1i63SqOSiKUpXVifuk0JvhkAbdKBnGo57eKfeqtfkZXJdGtw9xhbwVfYVqz0bHY1rPi9XQCJfkG3JCpzQIqImN8fvhbBIEo8ANkS6xl281Bt5oOe" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnn.modalpopup.js?cdv=35" type="text/javascript"></script><script src="/Resources/ControlPanel/ControlPanel.debug.js?cdv=35" type="text/javascript"></script><script src="/js/dnn.jquery.js?cdv=35" type="text/javascript"></script><script src="/js/dnncore.js?cdv=35" type="text/javascript"></script><script src="/Portals/_default/Skins/DarkKnight/jquery.cycle.min.js?cdv=35" type="text/javascript"></script><script src="/Portals/_default/Skins/DarkKnight/DNNMega/jquery.dnnmega.debug.js?cdv=35" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=35" type="text/javascript"></script>
+        
+        
+
+<div id="DNN6" class="Home">
+		<div id="Background"></div>
+    <div id="Header">
+        <div id="ContentBG">
+            <div id="ControlPanelWrapper">
+                
+		    </div>
+		    <div class="Content">
+                <div id="Nav">
+				    <!-- DDRmenu v02.00.01 - DNNMega template --><!--SEO NOINDEX--><div id="dnn_ctl00">
+  <ul class="dnnmega">
+    <li class="root mmFirst child-1"><a href="http://www.ehbconference.ro/Home.aspx"><span>Home</span></a></li>
+    <li class="root child-2"><a href="http://www.ehbconference.ro/CallforPapers.aspx"><span>Call for Papers</span></a></li>
+    <li class="root mmSelected mmBreadcrumb child-3"><a href="http://www.ehbconference.ro/Submission.aspx"><span>Submission</span></a></li>
+    <li class="root child-4"><a href="http://www.ehbconference.ro/Committees.aspx"><span>Committees</span></a></li>
+    <li class="root child-5"><a href="http://www.ehbconference.ro/Speakers.aspx"><span>Speakers</span></a></li>
+    <li class="root child-6"><a href="http://www.ehbconference.ro/Workshops.aspx"><span>Workshops</span></a></li>
+    <li class="root child-7"><a href="http://www.ehbconference.ro/Prizes.aspx"><span>Prizes</span></a></li>
+    <li class="root child-8"><a href="http://www.ehbconference.ro/Organizers.aspx"><span>Organizers</span></a></li>
+    <li class="root mmLast child-9"><a href="http://www.ehbconference.ro/VenueContact.aspx"><span>Venue &amp; Contact</span></a></li>
+  </ul>
+</div><!--END SEO-->
+			    </div>
+               
+		    </div>
+        </div>
+	</div>
+    <div id="Content">
+        <div id="Panes">
+		    <div id="LogoRow">
+			    <a id="dnn_dnnLogo_hypLogo" title="EHB 2023 Conference" href="http://www.ehbconference.ro/Home.aspx"><img id="dnn_dnnLogo_imgLogo" src="/Portals/0/Images/2019umf_logo_EN.png" alt="EHB 2023 Conference" style="border-width:0px;" /></a>
+                <div class="LogoRowRight">
+                    <div id="Login">
+                        
+<!--close registerGroup--> 
+                        
+<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
+    <a id="dnn_dnnLogin_enhancedLoginLink" title="Login" class="LoginLink" onclick="return dnnModal.show(&#39;http://www.ehbconference.ro/login.aspx?ReturnUrl=%252fSubmission.aspx&amp;popUp=true&#39;,/*showReturn*/true,300,650,true,&#39;&#39;)" href="http://www.ehbconference.ro/login.aspx?ReturnUrl=%2fSubmission.aspx">Login</a>
+</div><!--close loginGroup-->
+					    <div class="language-object" >
+
+
+</div>
+                    </div>
+					<div id="dnn_SocialMediaPane" class="DNNEmptyPane"></div>
+                </div>
+		    </div>
+            <div id="dnn_ContentPane"><div class="DnnModule DnnModule-DNNStuff-Aggregator DnnModule-723"><a name="723"></a>
+<h2><span id="dnn_ctr723_dnnTITLE_titleLabel" class="Head">Submission of papers</span>
+
+
+</h2>
+<div id="dnn_ctr723_ContentPane"><!-- Start_Module_723 --><div id="dnn_ctr723_ModuleContent" class="DNNModuleContent ModDNNStuffAggregatorC">
+	<div style="overflow:auto;" class="redmond">
+<div id="Agg723_Tab"><ul class="jQueryUI_Tabs_TabStrip"><li><a href="#Agg723_1">Submissions Information</a></li>
+<li><a href="#Agg723_2">Formatting Rules</a></li>
+</ul>
+<div id="Agg723_1" class="jQueryUI_Tabs_TabPage"><p><strong>EHB 2011, EHB 2013,&nbsp;<strong>EHB 2015,&nbsp;</strong>EHB 2017,&nbsp;<strong>EHB 2019,&nbsp;EHB 2020&nbsp;and <span style="color: #c00000;">EHB 2021</span>&nbsp;</strong>were already accepted and indexed in ISI Conference Proceedings Citation Index.</strong></p>
+<p style="text-align: justify;">The review process requires full paper submission. <br />
+<br />
+All submissions will be written in English (USA), with a <strong><em>maximum paper length of 4 pages (and minimum of 3.5 pages) for regular papers</em></strong>&nbsp;and <strong><em>6 pages for invited papers</em></strong>. Yet, if authors want to write their paper with 6 pages in length, <strong><span style="color: #c00000;">they have to pay an extra fee of 100 euros</span></strong>.&nbsp;</p>
+<strong>Only PDF files&nbsp;</strong>are accepted for the review process but final paper (accepted)&nbsp;<strong><span style="color: #c00000;">must also be sent in Word format </span></strong>to <strong>paper@ehbconference.ro
+</strong>
+<p>The official language of EHB 2023 is&nbsp;<strong>English</strong>.</p>
+<div style="text-align: justify;"><span style="text-align: left; color: #000000;"><em>A first camera ready manuscript</em> </span><span style="text-align: left;">describing work not previously published have to be electronically submitted in PDF file (maximum 2 MB)</span><span style="text-align: left; color: #000000;"> through the easyChair website</span><span style="text-align: left; color: #c00000;">,&nbsp;</span><a href="https://easychair.org/conferences/?conf=ehbweb2023" target="_blank" style="text-align: left;"><span style="color: #c00000;">https://easychair.org/conferences/?conf=ehbweb2023</span></a><span style="text-align: left; color: #c00000;">, <strong>beginning with 15th June 2023 and&nbsp;till</strong>&nbsp;</span><strong style="text-align: left;"><span style="text-decoration: line-through;">1st OCTOBER 2023</span></strong><span style="text-align: left;"><strong><span style="color: #c00000;">&nbsp;<span style="text-decoration: underline;">12th OCTOBER 2023</span> WITHOUT AUTHOR&rsquo;S NAME AND AFFILIATION !</span></strong></span><br />
+</div>
+<p>In order to submit papers for the <strong>International E-health and Bioengineering Conference &ndash; EHB 2023</strong>&nbsp;you have to create an EasyChair account. <br />
+<a href="/Portals/0/Account_Tutorial_EasyChair_2023.pdf" target="_blank" style="text-decoration-line: underline;">Download Create Account Tutorial EasyChair</a><br />
+<br />
+</p>
+<div style="text-align: justify;"><strong><span style="color: #c00000;">Authors of the best papers with specific topics will be invited to complete their articles with new outcomes, in order to be submitted to Sensors or Biosensors journals:&nbsp;</span></strong><br />
+<h3><strong>
+<div style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.mdpi.com/journal/biosensors/special_issues/E641IOL248" target="_blank"><img alt="" src="/portals/0/Bioensors_banner400x229.png" /></a><br />
+</div>
+<br />
+<a href="/Portals/0/Sensors_flyer.pdf" target="_blank">Download SENSORS Flyer</a></strong><a href="/Portals/0/Biosensors_flyer.pdf" target="_blank"><br />
+<br />
+</a><a href="https://www.mdpi.com/journal/sensors/special_issues/1I7IW852MS" target="_blank">https://www.mdpi.com/journal/sensors/special_issues/1I7IW852MS<br />
+</a><a href="https://www.mdpi.com/journal/biosensors/special_issues/E641IOL248" target="_blank">https://www.mdpi.com/journal/biosensors/special_issues/E641IOL248</a></h3>
+<strong><span style="color: #ff0000;">Of course, other new papers are also welcome for these journals.</span></strong>
+<strong><strong><em><br />
+</em></strong></strong></div></div><div id="Agg723_2" class="jQueryUI_Tabs_TabPage"><p style="text-align: justify;">The camera ready manuscript in A4 format (21 x 29,7 cm) should have <em><strong>4 pages</strong>&nbsp;(<strong style="color: #222222; font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans&quot;, Arial, sans-serif; font-size: 13.2px; text-align: justify; background-color: #fcfdfd;"><em>and minimum of 3.5 pages)&nbsp;</em></strong></em>in length and <strong><em>invited papers may have 4 or 6 pages</em></strong> (PDF file format only, maximum 2 MB)<em>,</em> and must conform to double column format. Submissions exceeding 6 pages will be rejected. <br />
+<br />
+<em><strong>Do NOT insert any headers, footers, or page numbers</strong></em>, and <strong><em>do NOT apply security settings</em></strong> to your PDF file. Templates for papers are available below in DOC format, without and with authors&rsquo; names, respectively. Violations of the paper template or the paper length (4 pages) will not be accepted.</p>
+<h2>Template without authors' name (blind).</h2>
+<a href="/Portals/0/EHB2023_blind_paper_template.doc" target="_blank">Download MS Word Template (blind)</a><br />
+<strong><span style="color: #ff0000;">DO NOT INDICATE AUTHORS' NAMES AND AFFILIATION !<br />
+</span></strong>
+<br />
+<h2>Template with authors' names:</h2>
+<a href="/Portals/0/EHB2023_final_template_header_copyright_FINAL.doc" target="_blank">Download MS Word Template Final (with EHB header and copyright notice)</a></div>
+</div>
+</div>
+</div><!-- End_Module_723 --></div>
+
+</div></div>
+            <div id="dnn_LeftPane" class="DNNEmptyPane"></div>
+		    <div id="dnn_RightPane" class="DNNEmptyPane"></div>
+		    <div id="dnn_BottomPane" class="DNNEmptyPane"></div>
+        </div>
+    </div>
+	<div id="Footer">
+        <div class="Content">
+            <div id="dnn_Footer_LeftPane" class="DNNEmptyPane"></div>
+            <div id="dnn_Footer_RightPane" class="DNNEmptyPane"></div>
+            <div id="dnn_Footer_BottomPane" class="DNNEmptyPane"></div>
+            <div id="Copyright"><span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright 2023 by SRBM</span>
+<a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="http://www.ehbconference.ro/terms.aspx">Terms Of Use</a><a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="http://www.ehbconference.ro/privacy.aspx">Privacy Statement</a></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`}" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script></form>
+    
+    
+</body>
+</html>
